@@ -1,2 +1,2 @@
 # RecoposApk
-bakup for Recopos apk file
+backup for Recopos apk file
